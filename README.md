@@ -11,20 +11,21 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 ### Tech Stack
 
 ### Languages
-![C](...)
-![C++](...)
-![Python](...)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Tools & Environment
-![Linux](...)
-![Git](...)
-![Docker](...)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Boards / Platforms
-![Arduino](...)
-![Raspberry%20Pi](...)
-![STM32](...)
-![Jetson%20Nano](...)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) 
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) 
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![Jetson%20Nano](https://img.shields.io/badge/Jetson%20Nano-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
