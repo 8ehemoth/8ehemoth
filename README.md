@@ -36,7 +36,7 @@
 - Built experience in data preprocessing, model training, and result analysis
 - Developed interest in applying AI models to embedded and real-time systems
 
-- 
+
 <!--
 **8ehemoth/8ehemoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
