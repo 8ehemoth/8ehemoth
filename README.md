@@ -8,7 +8,7 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 
 ---
 
-### Tech Stack
+## *Tech Stack*
 
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
@@ -29,7 +29,7 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 
 ---
 
-## Experience
+## *Experience*
 
 ### Undergraduate Researcher | ISOL Lab (Mar 2025 – Present)
 - Worked on CAN IDS anomaly detection research based on Hailo-8 and Raspberry Pi environments
