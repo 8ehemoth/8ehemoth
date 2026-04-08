@@ -6,7 +6,7 @@
 I'm Dongje Lee, an Electrical and Electronic Engineering student focused on embedded software, firmware, and edge AI.  
 My interests include MCU-based control, Linux-based embedded systems, and automotive communication technologies such as CAN and SOME/IP.
 
----
+
 
 ## *Tech Stack*
 
@@ -27,7 +27,7 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 ![Jetson%20Nano](https://img.shields.io/badge/Jetson%20Nano-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
+
 
 ## *Experience*
 
@@ -46,6 +46,8 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 - Studied AI fundamentals and participated in model implementation and experimentation
 - Built experience in data preprocessing, model training, and result analysis
 - Developed interest in applying AI models to embedded and real-time systems
+
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=behemoth)](https://solved.ac/profile/behemoth)
