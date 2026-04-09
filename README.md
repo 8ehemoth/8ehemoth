@@ -21,6 +21,7 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=ltspice&logoColor=white)
 
 
 ### Boards / Platforms
@@ -50,7 +51,7 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 - Built experience in data preprocessing, model training, and result analysis
 - Developed interest in applying AI models to embedded and real-time systems
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8ehemoth)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=behemoth)](https://solved.ac/profile/behemoth)
