@@ -49,8 +49,6 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 - Built experience in data preprocessing, model training, and result analysis
 - Developed interest in applying AI models to embedded and real-time systems
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8ehemoth)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=behemoth)](https://solved.ac/profile/behemoth)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=behemoth&theme=dark)](https://solved.ac/profile/behemoth)
