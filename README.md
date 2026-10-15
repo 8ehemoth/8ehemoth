@@ -45,6 +45,8 @@ Ubuntu 환경에서 SOME/IP 서버·클라이언트 통신을 분석하고, 입�
 - Li-Po 배터리·UBEC 전원 배선 및 납땜
 - 서보별 기준 각도 캘리브레이션 및 보행 동작 조정
 
+[참고 원본](https://github.com/8ehemoth/hexapod)
+
 ## Tech Stack
 
 ### 프로그래밍 언어
