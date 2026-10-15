@@ -33,7 +33,7 @@ My interests include MCU-based control, Linux-based embedded systems, and automo
 
 ## *Experience*
 
-### Undergraduate Researcher | ISOL Lab (Mar 2025 – Present)
+### Undergraduate Researcher | ISOL Lab (Feb 2025 – Aug 2026)
 - Worked on CAN IDS anomaly detection research based on Hailo-8 and Raspberry Pi environments
 - Built inference environments, validated input formats, compared results, and analyzed abnormal cases
 - Explored automotive communication security topics including SOME/IP and anomaly detection pipelines
