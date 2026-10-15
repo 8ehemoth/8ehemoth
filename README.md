@@ -91,12 +91,6 @@ ATmega128 기반 보드를 제작하고 AVR Studio에서 C언어 제어 실습�
 
 [실습 저장소](https://github.com/8ehemoth/microprocessor-application-and-experiment)
 
-### TCP 기반 GUI 클라이언트·서버
-**네트워크프로그래밍및실습 텀 프로젝트**
-
-Windows 소켓과 GUI를 활용해 사용자 ID 등록 및 채팅 메시지 전송 기능을 구현했습니다. 메시지 타입과 길이 정보를 활용한 통신 처리, 클라이언트 연결별 서버 스레드, 이벤트 객체와 임계영역을 이용한 동기화를 실습했습니다.
-
-[프로젝트 저장소](https://github.com/8ehemoth/NET-TERM-PROJECT)
 
 ### 고급컴퓨터프로그래밍
 **C언어 기초 및 프로그래밍 실습**
