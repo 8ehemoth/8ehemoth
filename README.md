@@ -144,3 +144,15 @@ Python·Linux 개발 환경과 SSH 기반 연구실 서버 활용 방법을 학�
 이 GitHub에는 프로젝트 코드, 수업·개인 학습 기록, 연구와 제작에 참고한 오픈소스가 함께 있습니다.
 
 일부 저장소에는 개발 중 사용한 실험 버전과 수업 메모가 포함되어 있습니다. 프로젝트별 구현 범위와 직접 수행한 작업, 실행 방법을 README에 정리하고 있습니다.
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/8ehemoth/8ehemoth/output/github-snake-dark.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/8ehemoth/8ehemoth/output/github-snake.svg"
+  />
+</picture>
